@@ -24,3 +24,8 @@ This is a simple Node.js script for sending emails using **Nodemailer** with env
 2.install libaries
 ```bash
 npm install
+
+## Create a .env file in the root directory and add your email credentials
+```bash
+YOUREMAIL=your-email@gmail.com
+APPPASSOWRD=your-app-password
