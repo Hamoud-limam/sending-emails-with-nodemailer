@@ -18,5 +18,5 @@ This is a simple Node.js script for sending emails using **Nodemailer** with env
 1. Clone the repository or copy the code to your project folder.
    
    ```bash
-   git clone <your-repo-url>
-   cd <your-project-folder>
+   git clone [<your-repo-url>](https://github.com/Hamoud-limam/sending-emails-with-nodemailer.git)
+   cd sending-emails-with-nodemailer
