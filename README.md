@@ -21,11 +21,11 @@ This is a simple Node.js script for sending emails using **Nodemailer** with env
    git clone (https://github.com/Hamoud-limam/sending-emails-with-nodemailer.git)
    cd sending-emails-with-nodemailer
 
-2.install libaries
+2. install libaries
 ```bash
-npm install ```
+npm install 
 
-## Create a .env file in the root directory and add your email credentials
+3. Create a .env file in the root directory and add your email credentials
 
 - YOUREMAIL=your-email@gmail.com
 - APPPASSOWRD=your-app-password
