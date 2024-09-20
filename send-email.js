@@ -10,7 +10,7 @@ let transporter = nodemailer.createTransport({
   secure: false,
   auth: {
     user: process.env.YOUREMAIL,
-    pass: process.env.APPPASSOWRD,
+    pass: process.env.APPPASSWORD,
   }
 });
 
