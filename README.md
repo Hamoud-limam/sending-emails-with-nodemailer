@@ -26,6 +26,6 @@ This is a simple Node.js script for sending emails using **Nodemailer** with env
 npm install
 
 ## Create a .env file in the root directory and add your email credentials
-```bash
-YOUREMAIL=your-email@gmail.com
-APPPASSOWRD=your-app-password
+
+- YOUREMAIL=your-email@gmail.com
+- APPPASSOWRD=your-app-password
