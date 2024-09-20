@@ -20,3 +20,7 @@ This is a simple Node.js script for sending emails using **Nodemailer** with env
    ```bash
    git clone (https://github.com/Hamoud-limam/sending-emails-with-nodemailer.git)
    cd sending-emails-with-nodemailer
+
+2.install libaries
+```bash
+npm install
